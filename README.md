@@ -1,6 +1,6 @@
 # Hi, I'm Sebastian Rodriguez Lizarraga! 👋
 
-<img src="imagenGIthub.webp" alt="Banner" width="60%" style="max-width: 100%; height: auto;"/>
+<img src="imagenGIthub.webp" alt="Banner" width="60%" height="40%" style="max-width: 100%; height: auto;"/>
 
 
 ## About Me 🚀
