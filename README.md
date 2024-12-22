@@ -1,6 +1,6 @@
 # Hi, I'm Sebastian Rodriguez Lizarraga! 👋
 
-![Banner](path/to/your/image.png)
+![Banner](imagenGIthub.webp)
 
 ## About Me 🚀
 - 🎓 **Computer Science Student** passionate about learning and solving complex problems.
