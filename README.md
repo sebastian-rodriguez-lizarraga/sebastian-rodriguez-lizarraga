@@ -14,8 +14,7 @@
 
 ## Contact 📬
 - ✉️ **Email**: rodriguezlizarragasebastian@gmail.com
-- 🐦 **Twitter**: [@your_handle](https://twitter.com/your_handle)
-- 💼 **LinkedIn**: [your-profile]([https://linkedin.com/in/your-prof](https://ar.linkedin.com/in/sebastian-rodriguez-lizarraga))
+- 💼 **LinkedIn**: [Sebastian Rodriguez Lizarraga]([https://linkedin.com/in/your-prof](https://ar.linkedin.com/in/sebastian-rodriguez-lizarraga))
 
 ---
 
