@@ -1,7 +1,7 @@
 # Hi, I'm Sebastian Rodriguez Lizarraga! 👋
 ## About Me 🚀
 - 🎓 **Computer Science Student** passionate about learning and solving complex problems.
-- ☕ Lover of coffee, music 🎵, and finance 📊.
+- ☕ I love coffee, music 🎵, and finance 📊.
 - 💛 My favorite color is **yellow** because it represents energy and creativity.
 
 ## Interests 💡
