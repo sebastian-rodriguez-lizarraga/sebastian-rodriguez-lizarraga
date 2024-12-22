@@ -1,6 +1,7 @@
 # Hi, I'm Sebastian Rodriguez Lizarraga! 👋
 
-<img src="imagenGIthub.webp" alt="Banner" width="100%" style="max-width: 100%; height: auto;"/>
+<img src="imagenGIthub.webp" alt="Banner" width="60%" style="max-width: 100%; height: auto;"/>
+
 
 ## About Me 🚀
 - 🎓 **Computer Science Student** passionate about learning and solving complex problems.
