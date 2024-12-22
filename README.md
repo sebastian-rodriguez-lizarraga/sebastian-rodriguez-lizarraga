@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm [Your Name]! 👋
 
-<!--
-**sebastian-rodriguez-lizarraga/sebastian-rodriguez-lizarraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](path/to/your/image.png)
 
-Here are some ideas to get you started:
+## About Me 🚀
+- 🎓 **Computer Science Student** passionate about learning and solving complex problems.
+- ☕ Lover of coffee, music 🎵, and finance 📊.
+- 💛 My favorite color is **yellow** because it represents energy and creativity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests 💡
+- **Algorithms and Computational Theory**: Inspired by legends like Dijkstra, Turing, and Bellman-Ford.
+- **Software Development**: Always striving to build efficient and scalable solutions.
+- **Cybersecurity and Finance**: Exploring the world of secure systems and financial strategies.
+
+## Contact 📬
+- ✉️ **Email**: your-email@example.com
+- 🌐 **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
+- 🐦 **Twitter**: [@your_handle](https://twitter.com/your_handle)
+- 💼 **LinkedIn**: [your-profile](https://linkedin.com/in/your-profile)
+
+---
+
+Thanks for visiting my profile! 🌟
