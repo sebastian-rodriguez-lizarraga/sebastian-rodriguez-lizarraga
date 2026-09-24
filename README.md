@@ -1,4 +1,6 @@
 # Hi, I'm Sebastian Rodriguez Lizarraga! 👋
+
+##Telegram: https://github.com/sebastian-rodriguez-lizarraga/audits
 ## About Me 🚀
 - 🎓 **Computer Science Student** passionate about learning and solving complex problems.
 - ☕ I love coffee, music 🎵, and finance 📊.
